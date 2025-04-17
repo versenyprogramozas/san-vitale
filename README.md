@@ -1,6 +1,10 @@
 # san-vitale
 
-Using the program:
+## Links 🔗
+- [Link to the challenge](https://miatbiolab.csr.unibo.it/svitale-dataset/)
+- [Link to the paper](https://m2.mtmt.hu/gui2/?mode=browse&params=publication;35660143)
+
+## Using the program 💻
 
 1) Install python and the libraries in requirements.txt
 2) Open a command prompt and set the following environment variable:
